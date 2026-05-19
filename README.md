@@ -116,11 +116,11 @@ export default new StarLord();
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=00F0FF&text_color=ffffff&icon_color=00F0FF" />
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=transparent&hide_border=true&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=starlord0062-maker&theme=transparent&hide_border=true&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=000000&color=00F0FF&line=00F0FF&point=ffffff&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=starlord0062-maker&bg_color=000000&color=00F0FF&line=00F0FF&point=ffffff&hide_border=true" />
 
 </div>
 
@@ -178,20 +178,6 @@ It should feel invisible to the user.
 ```
 
 ---
-
-# `> connect --network`
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=00F0FF)](https://yourportfolio.com)
-
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00F0FF)](https://linkedin.com/in/yourusername)
-
-[![Twitter](https://img.shields.io/badge/TWITTER-000000?style=for-the-badge&logo=x&logoColor=00F0FF)](https://twitter.com/yourusername)
-
-[![Gmail](https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=00F0FF)](mailto:yourmail@gmail.com)
-
-</div>
 
 ---
 
