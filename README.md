@@ -114,7 +114,7 @@ export default new StarLord();
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=00F0FF&text_color=ffffff&icon_color=00F0FF" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=starlord0062-maker&show_icons=true&theme=transparent&hide_border=true&title_color=00F0FF&text_color=ffffff&icon_color=00F0FF" />
 
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=starlord0062-maker&theme=transparent&hide_border=true&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF" />
 
@@ -176,8 +176,6 @@ It should be fast.
 It should be maintainable.
 It should feel invisible to the user.
 ```
-
----
 
 ---
 
